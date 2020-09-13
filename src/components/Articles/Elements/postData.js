@@ -8,7 +8,7 @@ const postData = (props) => (
             <span>{props.data.date}</span>
         </div>
         <div>
-            Author:
+            Author: Kumar Ojas
             <span>{props.data.author}</span>
         </div>
     </div>
